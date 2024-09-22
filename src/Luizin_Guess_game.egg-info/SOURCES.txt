@@ -1,0 +1,10 @@
+License
+README.md
+pyproject.toml
+setup.cfg
+src/Guess_the_number_package/Guess_game.py
+src/Guess_the_number_package/__init__.py
+src/Luizin_Guess_game.egg-info/PKG-INFO
+src/Luizin_Guess_game.egg-info/SOURCES.txt
+src/Luizin_Guess_game.egg-info/dependency_links.txt
+src/Luizin_Guess_game.egg-info/top_level.txt
